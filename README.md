@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Pavel Shorokhov, Android Developer 📱
-- 🐦 My twitter @pshorokhov
+- 👋 Hi, I’m Pavel Shorokhov, Android KMP Developer 📱
